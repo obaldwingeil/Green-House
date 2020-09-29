@@ -1,4 +1,4 @@
-# GreenHouse - Homework 3 Creative Doc
+# GreenHouse
 
 ## Artwork:
 
