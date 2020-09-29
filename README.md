@@ -20,3 +20,7 @@ A ladybug will appear in a random spot around the fountain every 10 seconds, onc
 Each flower has three stages, when placed, the ladybug moves the flower to its next stage, if it is full grown, the farmer will harvest it. 
 
 End Screen - Once the farmer has collected a total of ten plants, he will exit the greenhouse and make a bouquet for the player :)
+
+## How to run
+
+This game was created in GamemakerStudio2 and can be opened on any computer with that software by users who have accounts with the service. 
